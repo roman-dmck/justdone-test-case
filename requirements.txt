@@ -1,0 +1,8 @@
+requests==2.32.3
+beautifulsoup4==4.13.4
+loguru==0.7.3
+openai==1.79.0
+matplotlib==3.10.3
+pandas==2.2.3
+psycopg2-binary==2.9.10
+apache-airflow[celery]==3.0.1

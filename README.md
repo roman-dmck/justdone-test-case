@@ -120,6 +120,3 @@ Basic error handling is there. But it can be improved in various ways (strict mo
 
 ---
 
-# TODO
-
-push to github
